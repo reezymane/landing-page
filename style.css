@@ -73,6 +73,7 @@ button {
     border: none;
     border-radius: 5px;
     padding: 5px 20px;
+    font-size: 18px;
 }
 
 .middle img {
@@ -146,5 +147,15 @@ button {
     display: flex;
     justify-content: center;
     padding: 100px 175px;
+    justify-content: center;
+    align-items: center;
 }
 
+.box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    padding: 75px 125px;
+    width: 1200px;
+    border-radius: 7px;
+}
