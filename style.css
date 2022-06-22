@@ -76,8 +76,8 @@ button {
 }
 
 .middle img {
-    width: 150px;
-    height: 150px;
+    width: 175px;
+    height: 175px;
     border-radius: 5px;
     border: 5px solid #3882f6;
 }
@@ -104,4 +104,10 @@ button {
 
 .info {
     max-width: 300px;
+}
+
+.text {
+    padding-top: 5px;
+    font-size: 18px;
+    color: #505050;
 }
