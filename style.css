@@ -34,3 +34,8 @@ flex-direction: column;
     font-weight: bolder;
     color: #f9faf8;
 }
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
