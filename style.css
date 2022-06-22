@@ -87,4 +87,12 @@ button {
     padding-right: 300px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+
+.middle .title {
+    padding: 50px 0px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
 }
