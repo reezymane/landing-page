@@ -140,3 +140,11 @@ button {
     padding-bottom: 150px;
     padding-top: 10px;
 }
+
+.low-half {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 100px 175px;
+}
+
