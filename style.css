@@ -1,7 +1,12 @@
 body {
     font-family: 'Roboto', sans-serif;
-    padding-left: 42px;
-    padding-right: 42px;
     display: flex;
     flex-direction: column;
+}
+
+.header {
+background-color: #1f2937;
+color: white;
+display: flex;
+flex-wrap: wrap;
 }
