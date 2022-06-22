@@ -85,6 +85,7 @@ button {
 .middle {
     padding-left: 300px;
     padding-right: 300px;
+    padding-bottom: 150px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -110,4 +111,11 @@ button {
     padding-top: 5px;
     font-size: 18px;
     color: #505050;
+}
+
+.lower {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
