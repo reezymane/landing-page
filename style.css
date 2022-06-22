@@ -67,7 +67,7 @@ a {
     color: #e5e7eb;
 }
 
-button {
+.container button {
     background-color: #3882f6;
     color: #f9faf8;
     border: none;
@@ -158,10 +158,25 @@ button {
     padding: 75px 125px;
     width: 1200px;
     border-radius: 7px;
+    align-items: center;
 }
 
 .actionhead {
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
+}
+
+.actiontext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.box button {
+    border: 2px solid #f9faf8;
+    border-radius: 5px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 5px 20px;
+    font-size: 18px;
 }
