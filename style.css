@@ -23,6 +23,7 @@ flex-direction: column;
 .container {
     display: flex;
     justify-content: space-between;
+    gap: 50px;
 }
 
 .header img {
@@ -34,6 +35,12 @@ flex-direction: column;
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+}
+
+.inner {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .logo {
@@ -58,4 +65,12 @@ a {
 .content {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
 }
