@@ -88,6 +88,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 
 .middle .title {
@@ -95,4 +96,12 @@ button {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+}
+
+.middle .images {
+    display: flex;
+}
+
+.info {
+    max-width: 300px;
 }
