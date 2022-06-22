@@ -159,3 +159,9 @@ button {
     width: 1200px;
     border-radius: 7px;
 }
+
+.actionhead {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
