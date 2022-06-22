@@ -2,6 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 .header {
@@ -179,4 +180,18 @@ a {
     color: #f9faf8;
     padding: 5px 20px;
     font-size: 18px;
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color: #f9faf8;
+    font-size: 18px;
+}
+
+span {
+    margin: 7px;
 }
