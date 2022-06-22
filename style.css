@@ -123,8 +123,20 @@ button {
 .quote {
     font-size: 36px;
     font-style: italic;
+    font-weight: lighter;
     color: #1f2937;
     padding-top: 200px;
     padding-left: 400px;
     padding-right: 400px;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: bold;
+    color: #1f2937;
+    display: flex;
+    align-self: flex-end;
+    padding-right: 450px;
+    padding-bottom: 150px;
+    padding-top: 10px;
 }
